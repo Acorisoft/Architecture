@@ -3,6 +3,7 @@
 ## 项目架构
 
 * Morisa
+  * Acorisoft.Morisa.Core
   * Acorisoft.Morisa.Documents
     * Acorisoft.Morisa.Documents.Character
     * Acorisoft.Morisa.Documents.Map
