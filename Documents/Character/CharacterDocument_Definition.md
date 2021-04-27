@@ -5,11 +5,11 @@ https://www.campfireblaze.com/story/6087814dcdf8ed6982effa86/characters/characte
 * 基本信息
   * 生物特征
     * 名字
-      * Given Name 
-      *  Full Name
-      * Nick Name
-      * Pronouns
-      * Former Name
+      * 名字
+      *  全称
+      * 昵称
+      * 指代
+      * 曾用名
     * 年龄 & 生日
       * Age
       * Birthday
@@ -18,9 +18,9 @@ https://www.campfireblaze.com/story/6087814dcdf8ed6982effa86/characters/characte
       * Cause Of Death
     * 住宅
       * Place Of Residence
-      * Residential Status
-      * Origin Country
-      * Former Sovereign States
+      * 住宅状态
+      * 来源国家
+      * 前主权国家
     * 性别
       * 性别
       * 性取向
@@ -127,9 +127,9 @@ https://www.campfireblaze.com/story/6087814dcdf8ed6982effa86/characters/characte
       * Physical Touch
       * Words of Affirmation
     * Intimate Relationships
-    * Types of Attraction
-  * General Relationship
-    * Relationship History
-    * Abusive Relationships
+    * 吸引力类型
+  * 通用关系
+    * 关系历史
+    * 虐待关系
 * 角色
   * Role
